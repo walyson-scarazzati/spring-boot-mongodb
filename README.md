@@ -1,3 +1,5 @@
+Project from course Docker for Java Developers- John Thompson • 500,000+ Enrollments Worldwide - Udemy: https://www.udemy.com/course/docker-for-java-developers/
+
 # spring-boot-mongodb
 This repository contains a Spring Boot example project for MongoDB.
 
